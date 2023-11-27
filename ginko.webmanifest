@@ -3,19 +3,19 @@
     "name": "GinkoBus: The full name",
     "icons": [
       {
-        "src": "/icons/icon-192.png",
+        "src": "icons/icon-192.png",
         "type": "image/png",
         "sizes": "192x192"
       },
       {
-        "src": "/icons/icon-512.png",
+        "src": "icons/icon-512.png",
         "type": "image/png",
         "sizes": "512x512"
       },
       {
-        "src": "/icons/maskable_icon.png",
+        "src": "icons/maskable_icon.png",
         "type": "image/png",
-        "sizes": "196x196",
+        "sizes": "274x274",
         "purpose": "any maskable"
       }
     ],
